@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/hj/Desktop/USTC-tomoDD-SE-training2016/2017-HUABEI/RealData-Inversion/tomoDD-HuaBei/include'

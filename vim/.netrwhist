@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/hj/Desktop/work_temp/src_source_parameter_SSP/SSP/FindingRepeatingEarthquake/Example/work2'
+let g:netrw_dirhist_2='/home/hj/Desktop/work_temp/2017整理/tomDP_Q_hj/example/Input_Files'
+let g:netrw_dirhist_3='/home/hj/WORK/2017_Gofar_matlab_plot_final_version/CheckBoardTestPlotting/step2_syn_inv/2Q_inv/Output'
+let g:netrw_dirhist_4='/home/hj/WORK/2017_Gofar_matlab_plot_final_version/CheckBoardTestPlotting/step2_syn_inv/2Q_inv/Input'
+let g:netrw_dirhist_5='/home/hj/Desktop/work_temp/2017整理/tomoDPQ_HJ/4ResolutionTest/MakingQCheckBoardForResolutionTest_HJ/step2_syn_inv/2Q_inv/Input'
+let g:netrw_dirhist_6='/home/hj/Desktop/Share_Directory_Virtual_Linux/LIN/sac_new/Phasepapy/examples/Data/Data'
+let g:netrw_dirhist_7='/home/hj/Desktop/Share_Directory_Virtual_Linux/LIN/sac_new/Phasepapy/examples/repick'
